@@ -72,21 +72,11 @@ project-folder/
 ---
 
 ## 🧪 Örnek Ekran Çıktısı
+![Ekran görüntüsü 2025-05-25 161939](https://github.com/user-attachments/assets/110c1361-f7bb-4764-8cb2-72aeb53760df)
+-----------------------------------------------------------------
+![Ekran görüntüsü 2025-05-25 161951](https://github.com/user-attachments/assets/e519cbdb-b1f7-4d33-8c5c-ce92671864b8)
 
-```
-   ____                                      
-  / __ \____  ___  ____  ____  ____  ____ _
- / / / / __ \/ _ \/ __ \/ __ \/ __ \/ __ `/
-/ /_/ / /_/ /  __/ /_/ / /_/ / /_/ / /_/ / 
-\____/ .___/\___/ .___/ .___/ .___/\__,_/  
-    /_/        /_/   /_/   /_/             
 
-[10:21:55] Şifreleme başlıyor....
-[10:21:55] Key Oluşturuldu.
-[10:21:55] Şifreleme bitti....
-```
-
----
 
 ## ⚖️ Lisans
 
@@ -96,8 +86,8 @@ MIT Lisansı altında sunulmuştur. Ayrıntılar için `LICENSE` dosyasına baka
 
 ## ✍️ Geliştirici
 
-- **Adınız / Takma Adınız**
-- 📫 GitHub: [github.com/kullanıcı_adı](https://github.com/kullanıcı_adı)
+- **CHARON**
+- 📫 GitHub: [github.com/mhmt44ylpr](https://github.com/mhmt44ylpr)
 
 ---
 
